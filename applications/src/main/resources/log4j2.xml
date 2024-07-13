@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <!-- For console_application -->
+        <File name="ConsoleAppFileAppender" fileName="src/main/resources/applications/console_application/MetroStation-${date:yyyy-MM-dd}.log" immediateFlush="false" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %logger{36} - %msg%n"/>
+        </File>
+
+        <!-- For database_console_application -->
+        <File name="DatabaseConsoleAppFileAppender" fileName="src/main/resources/applications/database_console_application/MetroStationsApp-${date:yyyy-MM-dd}.log" immediateFlush="true" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %logger{36} - %msg%n"/>
+        </File>
+
+        <!-- For database_gui_application -->
+        <File name="DatabaseGUIAppFileAppender" fileName="src/main/resources/applications/database_gui_application/MetroStationsApp-${date:yyyy-MM-dd}.log" immediateFlush="true" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %logger{36} - %msg%n"/>
+        </File>
+
+        <!-- For root-->
+        <File name="FileAppender" fileName="src/main/resources/applications/LogFile-${date:yyyy-MM-dd}.log" immediateFlush="false" append="true">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %logger{36} - %msg%n"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <!-- Logger for console_application package -->
+        <Logger name="applications.console_application" level="info" additivity="false">
+            <AppenderRef ref="ConsoleAppFileAppender"/>
+        </Logger>
+
+        <!-- Logger for database_console_application package -->
+        <Logger name="applications.database_console_application" level="info" additivity="false">
+            <AppenderRef ref="DatabaseConsoleAppFileAppender"/>
+        </Logger>
+
+        <!-- Logger for database_gui_application package -->
+        <Logger name="applications.database_gui_application" level="info" additivity="false">
+            <AppenderRef ref="DatabaseGUIAppFileAppender"/>
+        </Logger>
+
+        <!-- Root logger-->
+        <Root level="error">
+            <AppenderRef ref="FileAppender"/>
+        </Root>
+    </Loggers>
+</Configuration>

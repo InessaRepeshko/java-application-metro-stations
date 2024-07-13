@@ -1,0 +1,34 @@
+<metroStation>
+  <name>Politekhnichna</name>
+  <opened>1984</opened>
+  <hoursList>
+    <hour>
+      <ridership>1100</ridership>
+      <comment>Very high ridership</comment>
+    </hour>
+    <hour>
+      <ridership>650</ridership>
+      <comment>High ridership</comment>
+    </hour>
+    <hour>
+      <ridership>532</ridership>
+      <comment>High ridership</comment>
+    </hour>
+    <hour>
+      <ridership>200</ridership>
+      <comment>Medium ridership</comment>
+    </hour>
+    <hour>
+      <ridership>188</ridership>
+      <comment>Low ridership</comment>
+    </hour>
+    <hour>
+      <ridership>110</ridership>
+      <comment>Low ridership</comment>
+    </hour>
+    <hour>
+      <ridership>60</ridership>
+      <comment>Very low ridership</comment>
+    </hour>
+  </hoursList>
+</metroStation>

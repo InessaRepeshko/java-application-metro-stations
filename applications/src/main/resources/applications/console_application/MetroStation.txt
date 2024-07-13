@@ -1,0 +1,8 @@
+Station: Name:	'Politekhnichna'.	Opened:	1984.	Hours:
+Hour	{ ridership = 1100,	comment = 'Very high ridership' }
+Hour	{ ridership = 650,	comment = 'High ridership' }
+Hour	{ ridership = 532,	comment = 'High ridership' }
+Hour	{ ridership = 200,	comment = 'Medium ridership' }
+Hour	{ ridership = 188,	comment = 'Low ridership' }
+Hour	{ ridership = 110,	comment = 'Low ridership' }
+Hour	{ ridership = 60,	comment = 'Very low ridership' }

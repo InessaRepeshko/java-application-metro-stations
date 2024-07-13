@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<TabPane fx:id="TabPaneMetroStationsEditMode"
+         maxHeight="-Infinity" maxWidth="-Infinity"
+         minHeight="-Infinity" minWidth="-Infinity"
+         prefHeight="400.0" prefWidth="400.0"
+         tabClosingPolicy="UNAVAILABLE"
+         xmlns="http://javafx.com/javafx/8"
+         xmlns:fx="http://javafx.com/fxml/1"
+         fx:controller="applications.database_gui_application.HoursEditModeController">
+  <tabs>
+    <Tab fx:id="TabHoursAdd" text="Add row">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <Label prefHeight="25.0" text="Enter the data for the new Hour:" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="15.0" />
+                  <TextField fx:id="textFieldAddRidership" prefHeight="25.0" promptText="Ridership" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="45.0" />
+                  <TextField fx:id="textFieldAddComment" layoutX="10.0" layoutY="10.0" prefHeight="25.0" promptText="Comment" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="90.0" />
+                  <TextField fx:id="textFieldAddMetroStationID" layoutX="20.0" layoutY="20.0" prefHeight="25.0" promptText="MetroStationID" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="135.0" />
+                  <Button mnemonicParsing="false" onAction="#addHourToDB" prefHeight="25.0" prefWidth="110.0" text="Add" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="275.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#clearAddFields" prefHeight="25.0" prefWidth="110.0" text="Clear" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="140.0" AnchorPane.rightAnchor="140.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#closeEditMode" prefHeight="25.0" prefWidth="110.0" text="Close" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="275.0" AnchorPane.rightAnchor="15.0" />
+               </children></AnchorPane>
+      </content>
+    </Tab>
+      <Tab fx:id="TabHoursEdit" text="Edit row">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <Label layoutX="10.0" layoutY="10.0" prefHeight="25.0" text="Enter the ID of the Hour to be edited:" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="15.0" />
+                  <TextField fx:id="textFieldEditHourID" layoutX="10.0" layoutY="10.0" prefHeight="25.0" promptText="HourID" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="150.0" AnchorPane.topAnchor="45.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#searchHourByIDForEdit" prefHeight="25.0" text="Search" AnchorPane.leftAnchor="265.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="45.0" />
+                  <Label layoutX="20.0" layoutY="20.0" prefHeight="25.0" text="Hour data:" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="80.0" />
+                  <TextArea fx:id="textAreaEditSearchResults" prefHeight="50.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="110.0" />
+                  <Label prefHeight="25.0" text="Enter new data for the Hour:" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="170.0" />
+                  <TextField fx:id="textFieldEditRidership" prefHeight="25.0" promptText="Ridership" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="200.0" />
+                  <TextField fx:id="textFieldEditComment" prefHeight="25.0" promptText="Comment" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="240.0" />
+                  <TextField fx:id="textFieldEditMetroStationID" layoutX="10.0" layoutY="10.0" prefHeight="25.0" promptText="MetroStationID" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="280.0" />
+                  <Button mnemonicParsing="false" onAction="#updateHourInDB" prefHeight="25.0" prefWidth="110.0" text="Update" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="275.0" />
+                  <Button mnemonicParsing="false" onAction="#clearEditFields" prefHeight="25.0" prefWidth="110.0" text="Clear" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="140.0" AnchorPane.rightAnchor="140.0" />
+                  <Button mnemonicParsing="false" onAction="#closeEditMode" prefHeight="25.0" prefWidth="110.0" text="Close" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="275.0" AnchorPane.rightAnchor="15.0" />
+               </children>
+            </AnchorPane>
+        </content>
+      </Tab>
+    <Tab fx:id="TabHoursRemove" text="Remove row">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <Label prefHeight="25.0" text="Enter the ID of the Hour to be removed:" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="15.0" />
+                  <TextField fx:id="textFieldRemoveHourID" prefHeight="25.0" promptText="HourID" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="150.0" AnchorPane.topAnchor="45.0" />
+                  <Button mnemonicParsing="false" onAction="#searchHourByIDForRemove" prefHeight="25.0" text="Search" AnchorPane.leftAnchor="265.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="45.0" />
+                  <Label prefHeight="25.0" text="Hour data:" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="80.0" />
+                  <TextArea fx:id="textAreaRemoveSearchResults" prefHeight="100.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="110.0" />
+                  <Button mnemonicParsing="false" onAction="#removeHourFromDB" prefHeight="25.0" prefWidth="110.0" text="Remove" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="275.0" />
+                  <Button mnemonicParsing="false" onAction="#clearRemoveFields" prefHeight="25.0" prefWidth="110.0" text="Clear" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="140.0" AnchorPane.rightAnchor="140.0" />
+                  <Button mnemonicParsing="false" onAction="#closeEditMode" prefHeight="25.0" prefWidth="110.0" text="Close" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="275.0" AnchorPane.rightAnchor="15.0" />
+               </children></AnchorPane>
+      </content>
+    </Tab>
+  </tabs>
+</TabPane>

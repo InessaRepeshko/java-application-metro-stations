@@ -1,0 +1,131 @@
+2024-05-28 22:10:26.640 [main] MetroStationsApp - Application opened
+2024-05-28 22:10:27.332 [JavaFX Application Thread] MetroStationsApp - Database connection established
+2024-05-28 22:10:27.332 [JavaFX Application Thread] MetroStationsApp - Database created
+2024-05-28 22:10:27.415 [JavaFX Application Thread] MetroStationsApp - Metro Stations Application main window is initialized
+2024-05-28 22:10:32.511 [JavaFX Application Thread] MetroStationsApp - New file created in application
+2024-05-28 22:25:44.432 [JavaFX Application Thread] MetroStationsApp - Import from JSON file
+2024-05-28 22:25:44.736 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" updated
+2024-05-28 22:25:44.737 [JavaFX Application Thread] MetroStationsApp - Table "Hours" updated
+2024-05-28 22:25:44.737 [JavaFX Application Thread] MetroStationsApp - JSON file opened
+2024-05-28 22:26:43.675 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" updated
+2024-05-28 22:26:43.676 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" sorted by ascending name
+2024-05-28 22:28:27.148 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" updated
+2024-05-28 22:28:27.149 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" sorted by descending name
+2024-05-28 22:28:59.889 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" updated
+2024-05-28 22:28:59.893 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" sorted by ascending opened year
+2024-05-28 22:29:40.171 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" updated
+2024-05-28 22:29:40.173 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" sorted by descending opened year
+2024-05-28 22:32:01.755 [JavaFX Application Thread] MetroStationsApp - Table "Hours" updated
+2024-05-28 22:32:01.757 [JavaFX Application Thread] MetroStationsApp - Table "Hours" sorted by ascending ridership
+2024-05-28 22:32:25.488 [JavaFX Application Thread] MetroStationsApp - Table "Hours" updated
+2024-05-28 22:32:25.489 [JavaFX Application Thread] MetroStationsApp - Table "Hours" sorted by descending ridership
+2024-05-28 22:33:46.162 [JavaFX Application Thread] MetroStationsApp - Table "Hours" updated
+2024-05-28 22:33:46.163 [JavaFX Application Thread] MetroStationsApp - Table "Hours" sorted by ascending comment length
+2024-05-28 22:34:05.039 [JavaFX Application Thread] MetroStationsApp - Table "Hours" updated
+2024-05-28 22:34:05.040 [JavaFX Application Thread] MetroStationsApp - Table "Hours" sorted by descending comment length
+2024-05-28 22:35:07.111 [JavaFX Application Thread] MetroStationsApp - Search for Hours by word
+2024-05-28 22:35:21.276 [JavaFX Application Thread] MetroStationsApp - Search for Hours by word
+2024-05-28 22:35:42.782 [JavaFX Application Thread] MetroStationsApp - Search for Hours by word
+2024-05-28 22:36:28.316 [JavaFX Application Thread] MetroStationsApp - Search for Hours by word
+2024-05-28 22:37:31.038 [JavaFX Application Thread] MetroStationsApp - Search for Hours by word
+2024-05-28 22:40:35.278 [JavaFX Application Thread] MetroStationsApp - Search for Metro Stations by name
+2024-05-28 22:43:09.386 [JavaFX Application Thread] MetroStationsApp - Search for Metro Stations by name
+2024-05-28 22:43:58.658 [JavaFX Application Thread] MetroStationsApp - Search for Metro Stations by name
+2024-05-28 22:44:35.716 [JavaFX Application Thread] MetroStationsApp - Search for Hours by minimal ridership
+2024-05-28 22:45:29.276 [JavaFX Application Thread] MetroStationsApp - Search for Hours by minimal ridership
+2024-05-28 22:46:11.434 [JavaFX Application Thread] MetroStationsApp - Search for Hours by minimal ridership
+2024-05-28 22:47:39.777 [JavaFX Application Thread] MetroStationsApp - Search for Hours by minimal ridership
+2024-05-28 22:48:00.383 [JavaFX Application Thread] MetroStationsApp - Search for Hours by minimal ridership
+2024-05-28 22:48:27.519 [JavaFX Application Thread] MetroStationsApp - Search for Hours by minimal ridership
+2024-05-28 22:48:56.299 [JavaFX Application Thread] MetroStationsApp - Search for Hours by maximum word count of comment
+2024-05-28 22:49:35.018 [JavaFX Application Thread] MetroStationsApp - Search for Hours by maximum word count of comment
+2024-05-28 22:49:56.378 [JavaFX Application Thread] MetroStationsApp - Search for Hours by maximum word count of comment
+2024-05-28 22:52:09.962 [JavaFX Application Thread] MetroStationsApp - The Edit mode window of the table "Metro Stations" is initialized
+2024-05-28 22:52:19.621 [JavaFX Application Thread] MetroStationsApp - The Edit mode window of the table "MetroStations" is closed
+2024-05-28 22:52:19.626 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" updated
+2024-05-28 22:52:21.006 [JavaFX Application Thread] MetroStationsApp - The Edit mode window of the table "Metro Stations" is initialized
+2024-05-28 22:54:09.535 [JavaFX Application Thread] MetroStationsApp - The fields of the "Add" tab are cleared
+2024-05-28 22:56:36.661 [JavaFX Application Thread] MetroStationsApp - ADD MetroStation: field Metro Station name is set to "Teatralna".
+2024-05-28 22:56:36.664 [JavaFX Application Thread] MetroStationsApp - ADD MetroStations: field Metro Station opened year is set to "1991".
+2024-05-28 22:56:51.491 [JavaFX Application Thread] MetroStationsApp - Metro Station added to the database:
+MetroStationID	  Name				  Opened
+5				  Teatralna		1991
+
+2024-05-28 22:57:02.107 [JavaFX Application Thread] MetroStationsApp - EDIT MetroStation: field Metro Station ID is set to "5".
+2024-05-28 22:57:02.110 [JavaFX Application Thread] MetroStationsApp - Search for the Metro Station for the tab "Edit":
+MetroStationID	  Name				  Opened
+5				  Teatralna		1991
+
+2024-05-28 22:58:39.160 [JavaFX Application Thread] MetroStationsApp - The fields of the "Add" tab are cleared
+2024-05-28 23:00:12.971 [JavaFX Application Thread] MetroStationsApp - EDIT MetroStation: field Metro Station ID is set to "5".
+2024-05-28 23:00:12.974 [JavaFX Application Thread] MetroStationsApp - EDIT MetroStation: field Metro Station name is set to "Oleksiivska".
+2024-05-28 23:00:12.974 [JavaFX Application Thread] MetroStationsApp - EDIT MetroStations: field Metro Station opened year is set to "2002".
+2024-05-28 23:00:23.735 [JavaFX Application Thread] MetroStationsApp - Metro Station updated in the database to:
+MetroStationID	  Name				  Opened
+5				  Oleksiivska		2002
+
+2024-05-28 23:00:28.262 [JavaFX Application Thread] MetroStationsApp - The fields of the "Edit" tab are cleared
+2024-05-28 23:01:54.672 [JavaFX Application Thread] MetroStationsApp - REMOVE MetroStation: field Metro Station ID is set to "4".
+2024-05-28 23:01:54.682 [JavaFX Application Thread] MetroStationsApp - Search for the Metro Station for the tab "Remove":
+MetroStationID	  Name				  Opened
+4				  Oleksiivska		2016
+
+2024-05-28 23:02:30.136 [JavaFX Application Thread] MetroStationsApp - REMOVE MetroStation: field Metro Station ID is set to "4".
+2024-05-28 23:02:30.152 [JavaFX Application Thread] MetroStationsApp - Metro Station removed from the database.
+2024-05-28 23:03:29.425 [JavaFX Application Thread] MetroStationsApp - The fields of the "Remove" tab are cleared
+2024-05-28 23:04:15.646 [JavaFX Application Thread] MetroStationsApp - The Edit mode window of the table "MetroStations" is closed
+2024-05-28 23:04:15.654 [JavaFX Application Thread] MetroStationsApp - Table "MetroStations" updated
+2024-05-28 23:10:17.635 [JavaFX Application Thread] MetroStationsApp - The Edit mode window of the table "Hours" is initialized
+2024-05-28 23:11:38.086 [JavaFX Application Thread] MetroStationsApp - ADD Hours: field Hour ridership is set to "123".
+2024-05-28 23:11:38.088 [JavaFX Application Thread] MetroStationsApp - ADD Hours: field Hour comment is set to "Usual ridership".
+2024-05-28 23:11:38.142 [JavaFX Application Thread] MetroStationsApp - ADD Hours: field Hour ID is set to "5"
+2024-05-28 23:12:17.077 [JavaFX Application Thread] MetroStationsApp - Hour added to the database:
+HourID	  Ridership		Comment
+14	  123		Usual ridership 				5
+
+2024-05-28 23:12:22.385 [JavaFX Application Thread] MetroStationsApp - The fields of the "Add" tab are cleared
+2024-05-28 23:13:12.147 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour ID is set to "13".
+2024-05-28 23:13:12.168 [JavaFX Application Thread] MetroStationsApp - Search for the Hour for the tab "Edit":
+HourID	  Ridership		Comment
+13	  60		Very low ridership 				2
+
+2024-05-28 23:14:48.597 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour ID is set to "13".
+2024-05-28 23:14:48.600 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour ridership is set to "10".
+2024-05-28 23:14:48.600 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour comment is set to "Infrequent ridership".
+2024-05-28 23:14:48.607 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour ID is set to "5"
+2024-05-28 23:15:07.973 [JavaFX Application Thread] MetroStationsApp - Hour updated in the database to:
+HourID	  Ridership		Comment
+13	  10		Infrequent ridership 				5
+
+2024-05-28 23:15:10.120 [JavaFX Application Thread] MetroStationsApp - The fields of the "Edit" tab are cleared
+2024-05-28 23:16:24.980 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour ID is set to "8".
+2024-05-28 23:16:24.987 [JavaFX Application Thread] MetroStationsApp - Search for the Hour for the tab "Edit":
+HourID	  Ridership		Comment
+8	  60		Very low ridership 				1
+
+2024-05-28 23:17:44.397 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour ID is set to "8".
+2024-05-28 23:17:44.400 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour ridership is set to "10".
+2024-05-28 23:17:44.401 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour comment is set to "Uncommon ridership".
+2024-05-28 23:17:44.407 [JavaFX Application Thread] MetroStationsApp - EDIT Hours: field Hour ID is set to "5"
+2024-05-28 23:17:55.246 [JavaFX Application Thread] MetroStationsApp - Hour updated in the database to:
+HourID	  Ridership		Comment
+8	  10		Uncommon ridership 				5
+
+2024-05-28 23:17:57.048 [JavaFX Application Thread] MetroStationsApp - The fields of the "Edit" tab are cleared
+2024-05-28 23:18:12.965 [JavaFX Application Thread] MetroStationsApp - REMOVE Hours: field Hour ID is set to "5".
+2024-05-28 23:18:12.974 [JavaFX Application Thread] MetroStationsApp - Search for the Hour for the tab "Remove":
+HourID	  Ridership		Comment
+5	  188		Low ridership 				1
+
+2024-05-28 23:18:28.961 [JavaFX Application Thread] MetroStationsApp - REMOVE Hours: field Hour ID is set to "5".
+2024-05-28 23:18:28.973 [JavaFX Application Thread] MetroStationsApp - Hour removed from the database.
+2024-05-28 23:19:18.858 [JavaFX Application Thread] MetroStationsApp - The fields of the "Remove" tab are cleared
+2024-05-28 23:19:34.298 [JavaFX Application Thread] MetroStationsApp - The Edit mode window of the table "Hours" is closed
+2024-05-28 23:19:34.318 [JavaFX Application Thread] MetroStationsApp - Table "Hours" updated
+2024-05-28 23:20:50.647 [JavaFX Application Thread] MetroStationsApp - About program shows
+2024-05-28 23:21:52.376 [JavaFX Application Thread] MetroStationsApp - Export from JSON file
+2024-05-28 23:21:52.420 [JavaFX Application Thread] MetroStationsApp - Saved to JSON file
+2024-05-28 23:31:12.424 [JavaFX Application Thread] MetroStationsApp - Import from JSON file
+2024-05-28 23:31:12.451 [JavaFX Application Thread] MetroStationsApp - com.thoughtworks.xstream.io.StreamException: 
+2024-05-28 23:31:39.983 [JavaFX Application Thread] MetroStationsApp - Database connection closed
+2024-05-28 23:31:40.025 [JavaFX Application Thread] MetroStationsApp - Application closed

@@ -1,0 +1,4 @@
+module:applications
+applications.console_application
+applications.database_console_application
+applications.database_gui_application

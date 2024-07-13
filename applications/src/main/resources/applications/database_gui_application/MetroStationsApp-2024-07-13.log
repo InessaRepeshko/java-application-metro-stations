@@ -1,0 +1,35 @@
+2024-07-13 15:41:28.782 [main] applications.database_gui_application.MetroStationsApp - Application opened
+2024-07-13 15:41:29.205 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Database connection established
+2024-07-13 15:41:29.206 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Database created
+2024-07-13 15:41:29.239 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Metro Stations Application main window is initialized
+2024-07-13 15:41:41.027 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - New file created in applications
+2024-07-13 15:41:45.498 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Table "MetroStations" updated
+2024-07-13 15:41:45.498 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Table "MetroStations" sorted by descending name
+2024-07-13 15:41:46.546 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Search for Hours by maximum word count of comment
+2024-07-13 15:41:48.025 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "Metro Stations" is initialized
+2024-07-13 15:41:50.760 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The fields of the "Add" tab are cleared
+2024-07-13 15:41:52.319 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "MetroStations" is closed
+2024-07-13 15:41:52.320 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Table "MetroStations" updated
+2024-07-13 15:41:57.306 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Database connection closed
+2024-07-13 15:41:57.317 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Application closed
+2024-07-13 19:13:27.542 [main] applications.database_gui_application.MetroStationsApp - Application opened
+2024-07-13 19:13:27.976 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Database connection established
+2024-07-13 19:13:27.976 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Database created
+2024-07-13 19:13:28.103 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Metro Stations Application main window is initialized
+2024-07-13 19:17:52.096 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "Metro Stations" is initialized
+2024-07-13 19:20:02.190 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "MetroStations" is closed
+2024-07-13 19:20:02.230 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Table "MetroStations" updated
+2024-07-13 19:49:34.287 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "Metro Stations" is initialized
+2024-07-13 19:49:40.067 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "MetroStations" is closed
+2024-07-13 19:49:40.116 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Table "MetroStations" updated
+2024-07-13 19:50:13.921 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "Metro Stations" is initialized
+2024-07-13 19:50:16.161 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "MetroStations" is closed
+2024-07-13 19:50:16.176 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Table "MetroStations" updated
+2024-07-13 20:20:11.211 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "Metro Stations" is initialized
+2024-07-13 20:20:14.630 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "MetroStations" is closed
+2024-07-13 20:20:14.679 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Table "MetroStations" updated
+2024-07-13 20:20:40.287 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "Metro Stations" is initialized
+2024-07-13 20:22:35.186 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Failed to add the Metro Station to the database.
+java.lang.IllegalArgumentException: Enter a string for the "Name" field for the Metro Station.
+2024-07-13 20:32:18.208 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - The Edit mode window of the table "MetroStations" is closed
+2024-07-13 20:32:18.276 [JavaFX Application Thread] applications.database_gui_application.MetroStationsApp - Table "MetroStations" updated

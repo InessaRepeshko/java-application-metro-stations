@@ -1,0 +1,38 @@
+2024-05-11 18:06:59.059 [main] part2.lab3.task1.MetroStationWithFilesDemo - Program started
+2024-05-11 18:06:59.062 [main] part2.lab3.task1.MetroStationWithFilesDemo - Write to TXT file
+2024-05-11 18:06:59.068 [main] part2.lab3.task1.MetroStationWithFilesDemo - Read from TXT file
+2024-05-11 18:06:59.071 [main] part2.lab3.task1.MetroStationWithFilesDemo - Metro Station read from TXT file:
+Station:	Name: 'Politekhnichna'.	Opened: 1984.	Hours:
+Hour	{ ridership = 1100,	comment = 'Very high ridership' }
+Hour	{ ridership = 650,	comment = 'High ridership' }
+Hour	{ ridership = 532,	comment = 'High ridership' }
+Hour	{ ridership = 200,	comment = 'Medium ridership' }
+Hour	{ ridership = 188,	comment = 'Low ridership' }
+Hour	{ ridership = 110,	comment = 'Low ridership' }
+Hour	{ ridership = 60,	comment = 'Very low ridership' }
+
+2024-05-11 18:06:59.071 [main] part2.lab3.task1.MetroStationWithFilesDemo - Serializing to XML
+2024-05-11 18:06:59.178 [main] part2.lab3.task1.MetroStationWithFilesDemo - Deserializing from XML
+2024-05-11 18:06:59.188 [main] part2.lab3.task1.MetroStationWithFilesDemo - Metro Station deserialize from XML file:
+Station:	Name: 'Politekhnichna'.	Opened: 1984.	Hours:
+Hour	{ ridership = 1100,	comment = 'Very high ridership' }
+Hour	{ ridership = 650,	comment = 'High ridership' }
+Hour	{ ridership = 532,	comment = 'High ridership' }
+Hour	{ ridership = 200,	comment = 'Medium ridership' }
+Hour	{ ridership = 188,	comment = 'Low ridership' }
+Hour	{ ridership = 110,	comment = 'Low ridership' }
+Hour	{ ridership = 60,	comment = 'Very low ridership' }
+
+2024-05-11 18:06:59.188 [main] part2.lab3.task1.MetroStationWithFilesDemo - Serializing to JSON
+2024-05-11 18:06:59.196 [main] part2.lab3.task1.MetroStationWithFilesDemo - Deserializing from JSON
+2024-05-11 18:06:59.200 [main] part2.lab3.task1.MetroStationWithFilesDemo - Metro Station deserialize from JSON file:
+Station:	Name: 'Politekhnichna'.	Opened: 1984.	Hours:
+Hour	{ ridership = 1100,	comment = 'Very high ridership' }
+Hour	{ ridership = 650,	comment = 'High ridership' }
+Hour	{ ridership = 532,	comment = 'High ridership' }
+Hour	{ ridership = 200,	comment = 'Medium ridership' }
+Hour	{ ridership = 188,	comment = 'Low ridership' }
+Hour	{ ridership = 110,	comment = 'Low ridership' }
+Hour	{ ridership = 60,	comment = 'Very low ridership' }
+
+2024-05-11 18:06:59.200 [main] part2.lab3.task1.MetroStationWithFilesDemo - Program finished
