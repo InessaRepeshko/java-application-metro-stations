@@ -2,9 +2,11 @@
 
 ## Overview
 
-This project is a database data manipulation application with a graphical user interface (GUI) developed using JavaFX. 
-The application processes, displays and stores entity data in a relational database.
-This implementation is based on the class hierarchy in the previously created project
+The "Metro Stations" Database GUI Application project is a database data manipulation application with a graphical user interface (GUI)
+developed using JavaFX that organizes information about metro stations,
+including statistical data on operating hours and ridership.
+It serves as a comprehensive tool for importing, exporting, querying, and manipulating data stored in the database.
+The implementation is based on the class hierarchy in the previously created project
 ["Metro Stations" Database Console Application](https://github.com/InessaRepeshko/java-application-metro-stations/blob/bb04c0dfdf8b50868897276c234086df909bc531/applications/src/main/java/applications/database_console_application/README.md#metro-station-database-console-application).
 
 Description of the entities that are represented in the program hierarchy of classes:

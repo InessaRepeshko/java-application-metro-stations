@@ -2,10 +2,11 @@
 
 ## Overview
 
-The "Metro Stations" Database Console Application project is a console application designed to 
-manage entities of an individual task using a ```MySQL``` relational database. 
+The "Metro Stations" Database Console Application project is a console application that manages data 
+about metro stations and statistical data on the operating hours and ridership of the stations 
+using a ```MySQL``` relational database.
 It serves as a comprehensive tool for importing, exporting, querying, and manipulating data stored in the database.
-This implementation is based on the class hierarchy in the previously created project 
+The implementation is based on the class hierarchy in the previously created project 
 ["Metro Stations" Console Application](https://github.com/InessaRepeshko/java-application-metro-stations/blob/bb04c0dfdf8b50868897276c234086df909bc531/applications/src/main/java/applications/console_application/README.md#metro-station-console-application).
 
 Description of the entities that are represented in the program hierarchy of classes:

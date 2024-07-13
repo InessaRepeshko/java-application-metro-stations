@@ -2,9 +2,9 @@
 
 ## Overview
 
-The "Metro Stations" Console Application project is a ```Maven```-based console application 
-demonstrating various functionalities including ```Stream API``` usage, 
-serialization, file operations, and logging. 
+The "Metro Stations" Console Application ```Maven```-based project of a console application for working with 
+TXT, XML and JSON files with data on metro stations and statistics on operating hours of stations and ridership. 
+The application demonstrates functionality such as using ```Stream API```, serialization, file operations and logging.
 
 Description of the entities that are represented in the program hierarchy of classes:
 

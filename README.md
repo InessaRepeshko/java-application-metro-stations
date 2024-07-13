@@ -49,7 +49,7 @@ and practical aspects of using Java language tools and the Java SE platform.
         </td>
         <td>
             The project is a console application that manages data about metro stations and statistical data on 
-            the operating hours and ridership of the stations using a MySQL database.
+            the operating hours and ridership of the stations using a MySQL relational database.
         </td>
         <td> 
             This project extends the functionalities of 
@@ -73,8 +73,9 @@ and practical aspects of using Java language tools and the Java SE platform.
             </a>
         </td>
         <td>
-            The project is a GUI application developed using the JavaFX platform to manage a database 
-            that organizes information about metro stations, including statistical data on operating hours and ridership.
+            The project is a database data manipulation application with a graphical user interface (GUI) 
+            developed using JavaFX that organizes information about metro stations, 
+            including statistical data on operating hours and ridership.
         </td>
         <td>
             This project extends the functionalities of 
