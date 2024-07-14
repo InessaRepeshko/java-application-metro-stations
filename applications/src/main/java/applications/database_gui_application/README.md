@@ -7,7 +7,7 @@ developed using JavaFX that organizes information about metro stations,
 including statistical data on operating hours and ridership.
 It serves as a comprehensive tool for importing, exporting, querying, and manipulating data stored in the database.
 The implementation is based on the class hierarchy in the previously created project
-["Metro Stations" Database Console Application](https://github.com/InessaRepeshko/java-application-metro-stations/blob/bb04c0dfdf8b50868897276c234086df909bc531/applications/src/main/java/applications/database_console_application/README.md#metro-station-database-console-application).
+["Metro Stations" Database Console Application](https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/applications/src/main/java/applications/database_console_application/README.md#metro-station-database-console-application).
 
 Description of the entities that are represented in the program hierarchy of classes:
 
@@ -19,7 +19,7 @@ Description of the entities that are represented in the program hierarchy of cla
 
 ## <a id="metro-station-database-gui-application-features"></a> Features
 
-In addition to [the features](https://github.com/InessaRepeshko/java-application-metro-stations/blob/bb04c0dfdf8b50868897276c234086df909bc531/applications/src/main/java/applications/database_console_application/README.md#metro-station-database-console-application-features)
+In addition to [the features](https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/applications/src/main/java/applications/database_console_application/README.md#metro-station-database-console-application-features)
 of the "Metro Stations" Database Console Application legacy project, this project implements the following features:
 
 ### JavaFX
