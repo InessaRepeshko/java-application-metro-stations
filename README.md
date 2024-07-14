@@ -18,7 +18,7 @@ and practical aspects of using Java language tools and the Java SE platform.
     <tr>
         <td>
             <a id="metro-station-console-application" 
-                href="https://github.com/InessaRepeshko/java-application-metro-stations/tree/bb04c0dfdf8b50868897276c234086df909bc531/applications/src/main/java/applications/console_application" 
+                href="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/applications/src/main/java/applications/console_application" 
                 target="_blank">"Metro Stations" Console Application
             </a>
         </td>
@@ -43,7 +43,7 @@ and practical aspects of using Java language tools and the Java SE platform.
     </tr>
         <td>
             <a id="metro-station-database-console-application" 
-                href="https://github.com/InessaRepeshko/java-application-metro-stations/tree/bb04c0dfdf8b50868897276c234086df909bc531/applications/src/main/java/applications/database_console_application" 
+                href="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/applications/src/main/java/applications/database_console_application" 
                 target="_blank">"Metro Stations" Database Console Application
             </a>
         </td>
@@ -68,7 +68,7 @@ and practical aspects of using Java language tools and the Java SE platform.
     </tr>
         <td>
             <a id="metro-station-database-gui-application" 
-                href="https://github.com/InessaRepeshko/java-application-metro-stations/tree/bb04c0dfdf8b50868897276c234086df909bc531/applications/src/main/java/applications/database_gui_application" 
+                href="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/applications/src/main/java/applications/database_gui_application" 
                 target="_blank">"Metro Stations" Database GUI Application
             </a>
         </td>
