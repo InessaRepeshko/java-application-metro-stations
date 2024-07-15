@@ -47,4 +47,45 @@ Logging events related to program execution using ```Log4j2```.
 ### Javadoc
 Contains documentation generated in HTML format using ```JavaDoc```.
 
+
+## Screens
+
+### Results of program code execution
+
+<div align="center">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/console_application/results.jpg">
+</div><br />
+
+### Contents of the "MetroStation.txt" file
+
+<div align="center">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/console_application/txt_file.jpg">
+</div><br />
+
+### Contents of the "MetroStation.xml" file
+
+<div align="center">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/console_application/xml_file.jpg">
+</div><br />
+
+### Contents of the formatted "MetroStation.json" file
+
+<div align="center">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/console_application/json_file.jpg">
+</div><br />
+
+### Contents of the "MetroStation.log" file
+
+<div align="center">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/console_application/log_file.jpg">
+</div><br />
+
+### Results of unit testing of program code using Junit
+
+<div align="center">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/console_application/unit_tests.jpg">
+</div><br />
+
+
+
 © Inessa Repeshko. 2024

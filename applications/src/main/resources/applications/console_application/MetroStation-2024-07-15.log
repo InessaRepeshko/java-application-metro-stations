@@ -1,0 +1,38 @@
+2024-07-15 14:42:41.201 [main] applications.console_application.MetroStationWithFilesDemo - Program started
+2024-07-15 14:42:41.209 [main] applications.console_application.MetroStationWithFilesDemo - Write to TXT file
+2024-07-15 14:42:41.215 [main] applications.console_application.MetroStationWithFilesDemo - Read from TXT file
+2024-07-15 14:42:41.219 [main] applications.console_application.MetroStationWithFilesDemo - Metro Station read from TXT file:
+Station:	Name: 'Politekhnichna'.	Opened: 1984.	Hours:
+Hour	{ ridership = 1100,	comment = 'Very high ridership' }
+Hour	{ ridership = 650,	comment = 'High ridership' }
+Hour	{ ridership = 532,	comment = 'High ridership' }
+Hour	{ ridership = 200,	comment = 'Medium ridership' }
+Hour	{ ridership = 188,	comment = 'Low ridership' }
+Hour	{ ridership = 110,	comment = 'Low ridership' }
+Hour	{ ridership = 60,	comment = 'Very low ridership' }
+
+2024-07-15 14:42:41.219 [main] applications.console_application.MetroStationWithFilesDemo - Serializing to XML
+2024-07-15 14:42:41.411 [main] applications.console_application.MetroStationWithFilesDemo - Deserializing from XML
+2024-07-15 14:42:41.426 [main] applications.console_application.MetroStationWithFilesDemo - Metro Station deserialize from XML file:
+Station:	Name: 'Politekhnichna'.	Opened: 1984.	Hours:
+Hour	{ ridership = 1100,	comment = 'Very high ridership' }
+Hour	{ ridership = 650,	comment = 'High ridership' }
+Hour	{ ridership = 532,	comment = 'High ridership' }
+Hour	{ ridership = 200,	comment = 'Medium ridership' }
+Hour	{ ridership = 188,	comment = 'Low ridership' }
+Hour	{ ridership = 110,	comment = 'Low ridership' }
+Hour	{ ridership = 60,	comment = 'Very low ridership' }
+
+2024-07-15 14:42:41.426 [main] applications.console_application.MetroStationWithFilesDemo - Serializing to JSON
+2024-07-15 14:42:41.438 [main] applications.console_application.MetroStationWithFilesDemo - Deserializing from JSON
+2024-07-15 14:42:41.443 [main] applications.console_application.MetroStationWithFilesDemo - Metro Station deserialize from JSON file:
+Station:	Name: 'Politekhnichna'.	Opened: 1984.	Hours:
+Hour	{ ridership = 1100,	comment = 'Very high ridership' }
+Hour	{ ridership = 650,	comment = 'High ridership' }
+Hour	{ ridership = 532,	comment = 'High ridership' }
+Hour	{ ridership = 200,	comment = 'Medium ridership' }
+Hour	{ ridership = 188,	comment = 'Low ridership' }
+Hour	{ ridership = 110,	comment = 'Low ridership' }
+Hour	{ ridership = 60,	comment = 'Very low ridership' }
+
+2024-07-15 14:42:41.443 [main] applications.console_application.MetroStationWithFilesDemo - Program finished
