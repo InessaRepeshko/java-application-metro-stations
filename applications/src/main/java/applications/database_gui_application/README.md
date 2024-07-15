@@ -62,302 +62,302 @@ Contains documentation generated in HTML format using ```JavaDoc```.
 
 ### The results of the GUI application - creating an object via ```File -> New```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/main_1.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/main_1.jpg">
 </div><br />
 
 ### Contents of the formatted "MetroStationsFromDB.json" file with the exported data from database
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/json_file_1.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/json_file_1.jpg">
 </div><br />
 
 ### The results of the GUI application - importing the file "MetroStation.json" via ```File -> Open...```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/main_3.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/main_3.jpg">
 </div><br />
 
 ### Results of the GUI application - displaying an error when loading an empty JSON file
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/error_1.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/error_1.jpg">
 </div><br /><br />
 
 
 ### Results of the GUI application - sorting table data via ```Run``` -> ```Sort "MetroStations" Table``` 
 * -> ```Sort by ascending name```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/sort_1.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/sort_1.jpg">
 </div><br />
 
 * -> ```Sort by descending name```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/sort_2.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/sort_2.jpg">
 </div><br />
 
 * -> ```Sort by ascending opened year```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/sort_3.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/sort_3.jpg">
 </div><br />
 
 * -> ```Sort by descending opened year```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/sort_4.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/sort_4.jpg">
 </div><br /><br />
 
 
 ### Results of the GUI application - sorting table data via ```Run``` -> ```Sort "Hours" Table``` 
 * -> ```Sort by ascending ridership```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/sort_5.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/sort_5.jpg">
 </div><br />
 
 * -> ```Sort by descending ridership```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/sort_6.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/sort_6.jpg">
 </div><br />
 
 * -> ```Sort by ascending comment length```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/sort_7.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/sort_7.jpg">
 </div><br />
 
 * -> ```Sort by descending comment length```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/sort_8.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/sort_8.jpg">
 </div><br /><br />
 
 
 ### The results of the GUI application - searching for table data via  ```Search by word button```
 *  test data: _""_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_1.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_1.jpg">
 </div><br />
 
 * test data: _"test"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_2.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_2.jpg">
 </div><br />
 
 * test data: _"medium"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_3.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_3.jpg">
 </div><br />
 
 * test data: _"ow"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_4.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_4.jpg">
 </div><br /><br />
 
 
 ### Results of the GUI application - searching for table data via  ```Search Metro Station``` button 
 * test data: _""_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_5.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_5.jpg">
 </div><br />
 
 * test data: _"test"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_6.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_6.jpg">
 </div><br />
 
 * test data: _"Kholodna Gora"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_7.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_7.jpg">
 </div><br /><br />
 
 
 ### Results of the GUI application - searching for table data via  ```Get total ridership``` button
 * test data: _""_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_8.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_8.jpg">
 </div><br />
 
 * test data: _"test"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_9.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_9.jpg">
 </div><br />
 
 * test data: _"Politekhnichna"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_10.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_10.jpg">
 </div><br /><br />
 
 
 ### Results of the GUI application - searching for table data via  ```Search Hours with min ridership``` button
 * test data: _""_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_11.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_11.jpg">
 </div><br />
 
 * test data: _"test"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_12.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_12.jpg">
 </div><br />
 
 * test data: _"Politekhnichna"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_13.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_13.jpg">
 </div><br /><br />
 
 
 ### Results of the GUI application - searching for table data via  ```Search Hours with max word count``` button
 * test data: _""_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_14.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_14.jpg">
 </div><br />
 
 * test data: _"test"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_15.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_15.jpg">
 </div><br />
 
 * test data: _"Politekhnichna"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/search_16.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/search_16.jpg">
 </div><br /><br />
 
 
 ### The results of the GUI application - opening the ```Edit "MetroStations" Table``` window through the ```Edit mode``` button under the ```Table "MetroStations"```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_1.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_1.jpg">
 </div><br />
 
 
 ### Results of the graphical user interface application - window ```Edit "MetroStations" Table``` -> tab ```Add```
 * adding a metro station via  ```Add``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_2.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_2.jpg">
 </div><br />
 
 * clearing field data via  ```Clear``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_3.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_3.jpg">
 </div><br /><br />
 
 ### Results of the graphical user interface application - window ```Edit "MetroStations" Table``` -> tab ```Edit```
 * search for a metro station via  ```Search``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_4.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_4.jpg">
 </div><br />
 
 * update metro station data via the ```Update``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_5.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_5.jpg">
 </div><br />
 
 * clearing field data via  ```Clear``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_6.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_6.jpg">
 </div><br /><br />
 
 
 ### Results of the graphical user interface application - window ```Edit "MetroStations" Table``` -> tab ```Remove```
 * search for a metro station via  ```Search``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_7.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_7.jpg">
 </div><br />
 
 * remove a metro station via  ```Remove``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_8.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_8.jpg">
 </div><br />
 
 * clearing field data via  ```Clear``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_9.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_9.jpg">
 </div><br /><br />
 
 
 ### The results of the GUI application - closing the ```Edit "MetroStations" Table``` window via  ```Close``` button on the ```Remove``` tab and displaying automatically updated data in the ```Table "MetroStations"```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_ms_10.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_ms_10.jpg">
 </div><br /><br />
 
 
 ### The results of the GUI application - opening the ```Edit "Hours" Table``` window through the ```Edit mode``` button under the ```Table "Hours"```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_1.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_1.jpg">
 </div><br /><br />
 
 
 ### Results of the graphical user interface application - window ```Edit "Hours" Table``` -> tab ```Add```
 * adding an hour via  ```Add``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_2.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_2.jpg">
 </div><br />
 
 * clearing field data via  ```Clear``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_3.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_3.jpg">
 </div><br /><br />
 
 
 ### Results of the graphical user interface application - window ```Edit "Hours" Table``` -> tab ```Edit```
 * search for an hour via the ```Search``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_4.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_4.jpg">
 </div><br /><br />
 
 * update the hour data via the ```Update``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_5.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_5.jpg">
 </div><br /><br />
 
 * clearing field data via  ```Clear``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_6.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_6.jpg">
 </div><br /><br /><br />
 
 
 ### Results of the graphical user interface application - window ```Edit "Hours" Table``` -> tab ```Remove```
 * search for hours via  ```Search``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_7.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_7.jpg">
 </div><br />
 
 * remove an hour via the ```Remove``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_8.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_8.jpg">
 </div><br />
 
 * clearing field data via ```Clear``` button
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_9.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_9.jpg">
 </div><br /><br />
 
 
 ### The results of the GUI application - closing the ```Edit "Hours" Table``` window via ```Close``` button on the ```Remove``` tab and displaying automatically updated data in the ```Table "Hours"```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/edit_hours_10.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/edit_hours_10.jpg">
 </div><br /><br />
 
 
 ### The results of the GUI application - opening a window with information about the program and the author via ```Help -> About...```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/main_3.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/main_3.jpg">
 </div><br />
 
 ### Results of the GUI application - exporting data from the application to the file _"ExportedMetroStations.json"_ via ```File -> Save```
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/main_4.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/main_4.jpg">
 </div><br />
 
 ### Formatted contents of the exported file _"ExportedMetroStations.json"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/json_file_2.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/json_file_2.jpg">
 </div><br /><br />
 
 ### Results of the GUI application - displaying the ```File``` menu
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/main_5.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/main_5.jpg">
 </div><br /><br />
 
 ### Results of the GUI application - displaying the ```Help``` menu
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/main_6.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/main_6.jpg">
 </div><br /><br />
 
 ### The contents of the file _"MetroStationsFX-2024-05-28.log"_ based on the results of the GUI application
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_gui_application/log_file.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/log_file.jpg">
 </div><br /><br />
 
 

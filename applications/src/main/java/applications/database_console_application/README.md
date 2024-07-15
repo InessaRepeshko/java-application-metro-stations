@@ -61,25 +61,25 @@ Contains documentation generated in HTML format using ```JavaDoc```.
 ### Results of program code execution
 
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_console_application/results.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_console_application/results.jpg">
 </div><br />
 
 ### Contents of the formatted "MetroStations.json" file with the exported data
 
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_console_application/json_file_1.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_console_application/json_file_1.jpg">
 </div><br />
 
 ### Contents of the formatted "MetroStationsFromDB.json" file with the exported data from database
 
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_console_application/json_file_2.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_console_application/json_file_2.jpg">
 </div><br />
 
 ### Contents of the "MetroStationsApp.log" file
 
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/tree/main/screens/database_console_application/log_file.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_console_application/log_file.jpg">
 </div><br />
 
 
