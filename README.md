@@ -56,7 +56,7 @@ and practical aspects of using Java language tools and the Java SE platform.
             <a href="#metro-station-console-application">"Metro Stations" Console Application</a>
             <ul>
                 <li>MySQL Database</li>
-                <li>CRUD Operations</li>
+                <li>DML, DDL commands</li>
                 <li>Search data</li>
                 <li>Sort data</li>
                 <li>Serialization</li>
