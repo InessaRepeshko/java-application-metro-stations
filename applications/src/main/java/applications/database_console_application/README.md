@@ -25,8 +25,8 @@ of the "Metro Stations" Console Application legacy project, this project impleme
 ### MySQL Database
 Using the relational database management system ```MySQL``` for data storage and retrieval.
 
-### CRUD Operations
-Supports create, read, update, delete operations on database records.
+### DML, DDL commands
+Execute commands for creating, reading, updating, deleting database records, creating and deleting tables and database.
 
 ### Search data
 Implementation of search and display methods according to specific criteria:
