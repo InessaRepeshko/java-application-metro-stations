@@ -10,6 +10,12 @@
 </p>
 
 
+## Table of Contents
+- [Overview](#overview)
+- [Features](#metro-station-console-application-features)
+- [Screens](#screens)
+
+
 ## Overview
 
 The "Metro Stations" Console Application ```Maven```-based project of a console application for working with 
