@@ -1,4 +1,21 @@
-# <a id="metro-station-database-gui-application"></a> "Metro Stations" Database GUI Application
+<div align="center"><img src="https://github.com/user-attachments/assets/d0d383bb-de61-43f4-b2f4-320b2c8cc055" width="200"/></div>
+<h1 align="center"><a id="metro-station-database-gui-application"></a> "Metro Stations" Database GUI Application</h1>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
+   <img src="https://img.shields.io/badge/JavaFX-007396?logo=javafx&logoColor=white" alt="JavaFX" />
+   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+   <img src="https://img.shields.io/badge/XStream-2A2A2A?logo=xstream&logoColor=white" alt="XStream" />
+   <img src="https://img.shields.io/badge/Log4j2-FF4500?logo=apache&logoColor=white" alt="Log4j2" />
+   <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white" alt="JUnit" />
+</p>
+
+
+## Table of Contents
+- [Overview](#overview)
+- [Features](#metro-station-database-gui-application-features)
+- [Screens](#screens)
+
 
 ## Overview
 
