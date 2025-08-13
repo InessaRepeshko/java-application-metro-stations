@@ -342,7 +342,7 @@ Contains documentation generated in HTML format using ```JavaDoc```.
 
 ### Formatted contents of the exported file _"ExportedMetroStations.json"_
 <div align="center">
-    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/json_file_2.jpg">
+    <img src="https://github.com/InessaRepeshko/java-application-metro-stations/blob/main/screens/database_gui_application/json_file_2.png">
 </div><br /><br />
 
 ### Results of the GUI application - displaying the ```File``` menu
